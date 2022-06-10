@@ -2,7 +2,7 @@
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-Motion should obey the laws.
+Motion should obey the [laws](https://en.wikipedia.org/wiki/Newton's_laws_of_motion).
 
 TODO: Fill out this long description.
 
